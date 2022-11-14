@@ -1,5 +1,7 @@
 import * as web3 from "@solana/web3.js";
 import * as fs from "fs";
+import dotenv from "dotenv";
+dotenv.config();
 
 export async function initializeKeypair(
   connection: web3.Connection
