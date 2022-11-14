@@ -1,0 +1,4 @@
+NFT FUNDING ADDRESS
+
+Funding address:
+  -> pubkey: x9zwJUBmy5qeDENiUEGkCSDmqUXUJNqzGJoFszaWaMm

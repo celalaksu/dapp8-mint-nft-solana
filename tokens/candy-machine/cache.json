@@ -1,0 +1,89 @@
+{
+  "program": {
+    "candyMachine": "ELgav1kTkmmu58rq33SfVYCD3YJGCU5TobwQRivtukie",
+    "candyMachineCreator": "71znmbYsC3PCh9YKBG59K8kXtkShxdqEsBdeo89Y4EST",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "EEMCS Token #1",
+      "image_hash": "6f16570562658640b3dc6b6dd7e5b94190d2f8bd5c5a0aa0a4d0bba20c7fd612",
+      "image_link": "https://arweave.net/25EsQWXeevD6p8fzapz-ppsBIRmLL2mMVkaK8V4oPgc?ext=png",
+      "metadata_hash": "e3bcccea380706d870360f2f6875885a07efccd112e104133a9ab13db9bc299e",
+      "metadata_link": "https://arweave.net/3jvrZGCjykL5kbVIKySmXBNF4CfVhowy-FVno2qSzLk",
+      "onChain": true
+    },
+    "1": {
+      "name": "EEMCS Token #2",
+      "image_hash": "d527d7faf0e0064e2c527909a740aaec670ea505ad07b109e940099d5e5781e2",
+      "image_link": "https://arweave.net/IhbMObB5-zr_nBoTimLRfrckmAUPKifFHCq1n3yXe38?ext=png",
+      "metadata_hash": "71d0a9b7f04e84e587d7cfc8a03ab678bdfa72678e902b3b7134bd8c65cd2793",
+      "metadata_link": "https://arweave.net/W1Tg2JlqpI2rVW-pdn9n0XLscGWIaIn0OPuHHqqBUR8",
+      "onChain": true
+    },
+    "2": {
+      "name": "EEMCS Token #3",
+      "image_hash": "82763aecbf910695ef0bf1311152e2b6c2e9578a8d0d85f3ada320abb9b3551b",
+      "image_link": "https://arweave.net/sgw8743Q4pGLiutNOi9rpSw-mk7liSBCEy8CjP50IaY?ext=png",
+      "metadata_hash": "ea8756055045c645205b373be95a7a53ccaa2b9462971c4de0444eddc362a2f3",
+      "metadata_link": "https://arweave.net/1CpX7MYKDpR2qqRkGG3jYZ_-mVIWJV00sAio_e8fA7I",
+      "onChain": true
+    },
+    "3": {
+      "name": "EEMCS Token #4",
+      "image_hash": "05d9bed9f734103efc131a0ad0a88b0dbbf46afdd8f7a6b179e8ea7e1b37f046",
+      "image_link": "https://arweave.net/e41bE0cnHjds1taoNiC0aYl6syuvkXQtjo-gMiS2d00?ext=png",
+      "metadata_hash": "5d57e291dd2127d659aec69d5c6e54fcddf91e6a28988bc6329c01115ac79def",
+      "metadata_link": "https://arweave.net/XmfUKo7PaoXRbiy_z7t9pucfGrLoH3I6wNWLThWfzeI",
+      "onChain": true
+    },
+    "4": {
+      "name": "EEMCS Token #5",
+      "image_hash": "92906e1988a4c58125799c3636a567ec47fca77e15ef6a326be07bc4d8a0522c",
+      "image_link": "https://arweave.net/oZ4tyEQeJc3vKSN_ataUwk12HI19PyrfsGmLFKeRyBE?ext=png",
+      "metadata_hash": "bb4c880a23cf231423022f678023620c698ab5e492a28365d0f48a5d3a9de9ac",
+      "metadata_link": "https://arweave.net/fX4w9-dhgPCeZNes48HU6fEKItoSCug3uTnGU6VJGMM",
+      "onChain": true
+    },
+    "5": {
+      "name": "EEMCS Token #6",
+      "image_hash": "ecf8012c1bedc8d481d20540d47813318c02edfef1080b712155896147b056d9",
+      "image_link": "https://arweave.net/HFYRtDgR1F_RAbc92dAvOBnRSaYmpHJqukesornsLtQ?ext=png",
+      "metadata_hash": "b2b6a90395e3eaa15974742e4074c2d46b08e99f3e5a851da8491e24f9794a32",
+      "metadata_link": "https://arweave.net/Y1Aptef9Tpy_BmrX478XN8ZVHYV34xpsJNEbNauXO4A",
+      "onChain": true
+    },
+    "6": {
+      "name": "EEMCS Token #7",
+      "image_hash": "ffe705980fde6a9fbc6cb29b3505d467499c4e78af08f486bf2cd6f7b3f27151",
+      "image_link": "https://arweave.net/RKXaWEh6Y8143bNyF_aeTpj0CnHkETMxQmzp22KsJd4?ext=png",
+      "metadata_hash": "9fa23a357160b2901a221afca7582b71499b27ff115570f0c1309dce18c57ead",
+      "metadata_link": "https://arweave.net/BBzvfhhFq6-yKGUUdeQl8t4IizTUss8HZgxoLlTwQak",
+      "onChain": true
+    },
+    "7": {
+      "name": "EEMCS Token #8",
+      "image_hash": "babd4f81cf056ce35bae9b1330c9c1b13f440ad2a3632c862e5594994a30a5b7",
+      "image_link": "https://arweave.net/C1Dm5zGoWpgzcJyMibtj6I1sfUsMs6gpV9QPJ6LdM90?ext=png",
+      "metadata_hash": "817c844001989f384239a3bc71f58e72dea467deff042b720cb4c4c352ce8d0c",
+      "metadata_link": "https://arweave.net/JAiLEGKpPDn0qfKS8crhgRIoJ_bLjceMlVHtMOq6pv0",
+      "onChain": true
+    },
+    "8": {
+      "name": "EEMCS Token #9",
+      "image_hash": "c95e11874e94a27b547e5e7457f974a8d299c8c0066f3bf4430aa9c24e03835f",
+      "image_link": "https://arweave.net/oaXzPBmXdCs_AxesJO-QrUD80HKsPz4M9UW5coNhFOQ?ext=png",
+      "metadata_hash": "8ba30a8bda6fc3709a5f85f8f213baca5f5f849eb39d7cfa24e484b9dd376eb1",
+      "metadata_link": "https://arweave.net/Rf_OSQ5rWxVQzBPiY3GqJxrrUHtGLRCCe0C8KfXokt0",
+      "onChain": true
+    },
+    "9": {
+      "name": "EEMCS Token #10",
+      "image_hash": "4c16db39492bc794fbde16cf0aa0abe5f172fa88a45bd2e4afdfea782af241d5",
+      "image_link": "https://arweave.net/LqAcXiTFWYjPt4l_c6izj0RQBrbdt2zAb_odM3WL1iY?ext=png",
+      "metadata_hash": "39696fa882f98d37484c6bcd59593556d15fa2328e50b5b97aa06f79c0f88203",
+      "metadata_link": "https://arweave.net/mX15nW6-g_v1CnJEKZ-5zJ1plg9GiqowS_FGHkBcAX4",
+      "onChain": true
+    }
+  }
+}
